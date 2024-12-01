@@ -3,6 +3,9 @@
 this model is implemented using deep learning algorithms which recognisez the written digit in graphical user with confidence.
 
 to run these files you need to install python version 3 to 3.8
+
+
+
 install tensorflow,
 install keras,
 install pillow,
